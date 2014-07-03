@@ -1,0 +1,71 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="CCUT.Site1" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+
+<link  rel="Stylesheet" type="text/css" href="css/menu.css"/>
+<link rel="Stylesheet" type="text/css"  href="css/css/main.css"/>
+
+<script type="text/javascript" language="javascript" src="Scripts/jquery-1.7.1.js"></script>
+<script type="text/javascript" language="javascript" src="Scripts/js/scrolltopcontrol.js"></script>
+
+
+     <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body >
+<form id="form1" runat="server" >
+   <div id="golbal">
+             <div id=" top" style=" width:100%; margin:auto;" >
+              <div id="logo"  style="background-image: url('images/Image/Logo.jpg'); background-repeat:repeat-x; height: 130px; ">
+                </div>   
+                     <div   class="menu" id="menu" style="  margin:auto; width:1200px;">
+                     <ul style=" margin:auto; width:1200px;">
+                      &nbsp;   &nbsp; &nbsp;
+                      <li ><a href="Index.aspx">首页</a></li>
+                       <asp:Repeater ID="classname" runat="server" 
+                             onitemdatabound="classname_ItemDataBound">
+                     <ItemTemplate>
+                    
+                    <li style=" margin:auto"> <a href="Class.aspx?classid=<%#Eval("classid")%>&&classname=<%#Eval("classname") %>"   ><%#Eval("classname")%><asp:HiddenField ID="hf" runat="server"  Value='<%#Eval("classid")%>'/>
+                    </a>
+                    <ul style="z-index:100;" >
+                    <asp:Repeater ID="typename" runat="server" >
+                    <ItemTemplate>
+                    <li> <a href="Type.aspx?typeid=<%#Eval("typeid")%>&&typename=<%#Eval("typename")%>" > <%#Eval("typename").ToString().Length > 4 ? Eval("typename").ToString().Substring(0, 4) : Eval("typename").ToString()%></a></li>
+                    </ItemTemplate>
+                    </asp:Repeater>
+                    </ul>
+                    </li>
+                    
+                    </ItemTemplate>
+                  </asp:Repeater>
+                  </ul>
+             
+               </div> 
+              </div>
+  
+   
+          <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+          </asp:ContentPlaceHolder>
+        
+ 
+        
+    <div id="buttom"   style=" padding-top:20px;" >
+    <div class="sharp color1">
+        <b class="b1"></b><b class="b2"></b><b class="b3"></b><b class="b4"></b> 
+        <div class="content">  
+
+    <div style="  text-align:center; font-size:small;height:35px;  vertical-align:middle; width:100%; font-size:medium; ">长春工业大学软件职业技术学院 吉ICP备05046678号</div>
+    </div>
+     
+        <b class="b5"></b><b class="b6"></b><b class="b7"></b><b class="b8"></b>    </div>  
+    </div>
+
+    </div></form>
+</body>
+</html>

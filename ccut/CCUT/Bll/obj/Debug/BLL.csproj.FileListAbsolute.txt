@@ -1,0 +1,18 @@
+c:\users\hp\documents\visual studio 2010\Projects\CCUT\Bll\bin\Debug\Bll.dll
+c:\users\hp\documents\visual studio 2010\Projects\CCUT\Bll\bin\Debug\Bll.pdb
+c:\users\hp\documents\visual studio 2010\Projects\CCUT\Bll\bin\Debug\DAL.dll
+c:\users\hp\documents\visual studio 2010\Projects\CCUT\Bll\bin\Debug\Model.dll
+c:\users\hp\documents\visual studio 2010\Projects\CCUT\Bll\bin\Debug\DAL.pdb
+c:\users\hp\documents\visual studio 2010\Projects\CCUT\Bll\bin\Debug\Model.pdb
+c:\users\hp\documents\visual studio 2010\Projects\CCUT\Bll\obj\Debug\ResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2010\Projects\CCUT\Bll\obj\Debug\Bll.dll
+c:\users\hp\documents\visual studio 2010\Projects\CCUT\Bll\obj\Debug\Bll.pdb
+C:\Users\hp\Desktop\ccut\CCUT\Bll\bin\Debug\Bll.dll
+C:\Users\hp\Desktop\ccut\CCUT\Bll\bin\Debug\Bll.pdb
+C:\Users\hp\Desktop\ccut\CCUT\Bll\bin\Debug\DAL.dll
+C:\Users\hp\Desktop\ccut\CCUT\Bll\bin\Debug\Model.dll
+C:\Users\hp\Desktop\ccut\CCUT\Bll\bin\Debug\DAL.pdb
+C:\Users\hp\Desktop\ccut\CCUT\Bll\bin\Debug\Model.pdb
+C:\Users\hp\Desktop\ccut\CCUT\Bll\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hp\Desktop\ccut\CCUT\Bll\obj\Debug\Bll.dll
+C:\Users\hp\Desktop\ccut\CCUT\Bll\obj\Debug\Bll.pdb

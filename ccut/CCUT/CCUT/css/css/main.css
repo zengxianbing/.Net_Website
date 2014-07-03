@@ -1,0 +1,45 @@
+﻿
+body{ background-color:#FFFFF7;margin: 0 auto; padding: 0; background-attachment:fixed; background-image:url(images/2.jpg); background-repeat:repeat;}
+ a:link,a:visited{color:#999;font-weight:bold; text-decoration:none;}
+ a:hover{text-decoration:none; border-bottom:1px orange solid;color:orange;}
+       
+/*上圆角框通用设置样式，如果要运用多个不同颜色，以下6句不用重新变化--------------------------------*/
+.b1,.b2,.b3,.b4,.b5,.b6,.b7,.b8{height:1px; font-size:1px; overflow:hidden; display:block;}
+.b1,.b8{margin:0 5px;}
+.b2,.b7{margin:0 3px;border-right:2px solid; border-left:2px solid;}
+.b3,.b6{margin:0 2px;border-right:1px solid; border-left:1px solid;}
+.b4,.b5{margin:0 1px;border-right:1px solid; border-left:1px solid; height:2px;}
+.content {border-right:1px solid;border-left:1px solid;overflow:hidden;}
+/*颜色方案一,蓝色边框----------------------------------------*/
+/*下面第一、二句决定边框颜色，第三句决定背景颜色*/
+/*边框色*/
+.color1 .b2,.color1 .b3,.color1 .b4,.color1 .b5,.color1 .b6,.color1 .b7,.color1 .content{border-color:#96C2F1;}
+.color1 .b1,.color1 .b8{background:#96C2F1;}
+/*背景色*/
+.color1 .b2,.color1 .b3,.color1 .b4,.color1 .b5,.color1 .b6,.color1 .b7,.color1 .content{background:#EEFAFF;}
+ .clearfix:after
+        {
+            visibility: hidden;
+            display: block;
+            font-size: 0;
+            content: ".";
+            clear: both;
+            height: 0;
+        }
+
+        * html .clearfix
+        {
+            zoom: 1;
+        }
+        *:first-child + html .clearfix
+        {
+            zoom: 1;
+        }
+#container{ width:1024px; margin: 20px auto 20px auto; clear:both; margin-bottom:20px;}
+#left{ width:195px; float:left}
+#right{ width: 804px; float:right; margin-left:25px}
+#buttom{width:1024px; clear:both; margin:auto; } 
+.classname{ background:url(images/navbar.gif);width:100%;height:30px; text-align:center; vertical-align:bottom; font-size:20px; color: Black; font-weight:bold;}
+.padd{ padding:10px;}
+.righttypename{background:url(images/navbar.gif);width:100%;height:30px; text-align:center; vertical-align:bottom; font-size:20px; color:Black; font-weight:bold;}
+.typename{ text-align:left; }

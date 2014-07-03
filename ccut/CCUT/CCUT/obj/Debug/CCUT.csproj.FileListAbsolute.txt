@@ -1,0 +1,23 @@
+c:\users\hp\documents\visual studio 2010\Projects\CCUT\CCUT\bin\CCUT.dll
+c:\users\hp\documents\visual studio 2010\Projects\CCUT\CCUT\bin\CCUT.pdb
+c:\users\hp\documents\visual studio 2010\Projects\CCUT\CCUT\bin\Bll.dll
+c:\users\hp\documents\visual studio 2010\Projects\CCUT\CCUT\bin\Model.dll
+c:\users\hp\documents\visual studio 2010\Projects\CCUT\CCUT\bin\Bll.pdb
+c:\users\hp\documents\visual studio 2010\Projects\CCUT\CCUT\bin\Model.pdb
+c:\users\hp\documents\visual studio 2010\Projects\CCUT\CCUT\obj\Debug\ResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2010\Projects\CCUT\CCUT\obj\Debug\CCUT.dll
+c:\users\hp\documents\visual studio 2010\Projects\CCUT\CCUT\obj\Debug\CCUT.pdb
+c:\users\hp\documents\visual studio 2010\Projects\CCUT\CCUT\bin\DAL.dll
+c:\users\hp\documents\visual studio 2010\Projects\CCUT\CCUT\bin\DAL.pdb
+C:\Users\hp\documents\visual studio 2010\Projects\CCUT\CCUT\bin\AspNetPager.dll
+C:\Users\hp\Desktop\ccut\CCUT\CCUT\bin\CCUT.dll
+C:\Users\hp\Desktop\ccut\CCUT\CCUT\bin\CCUT.pdb
+C:\Users\hp\Desktop\ccut\CCUT\CCUT\bin\Bll.dll
+C:\Users\hp\Desktop\ccut\CCUT\CCUT\bin\Model.dll
+C:\Users\hp\Desktop\ccut\CCUT\CCUT\bin\DAL.dll
+C:\Users\hp\Desktop\ccut\CCUT\CCUT\bin\Bll.pdb
+C:\Users\hp\Desktop\ccut\CCUT\CCUT\bin\Model.pdb
+C:\Users\hp\Desktop\ccut\CCUT\CCUT\bin\DAL.pdb
+C:\Users\hp\Desktop\ccut\CCUT\CCUT\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hp\Desktop\ccut\CCUT\CCUT\obj\Debug\CCUT.dll
+C:\Users\hp\Desktop\ccut\CCUT\CCUT\obj\Debug\CCUT.pdb

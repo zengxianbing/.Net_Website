@@ -1,0 +1,14 @@
+c:\users\hp\documents\visual studio 2010\Projects\CCUT\DAL\bin\Debug\DAL.dll
+c:\users\hp\documents\visual studio 2010\Projects\CCUT\DAL\bin\Debug\DAL.pdb
+c:\users\hp\documents\visual studio 2010\Projects\CCUT\DAL\bin\Debug\Model.dll
+c:\users\hp\documents\visual studio 2010\Projects\CCUT\DAL\bin\Debug\Model.pdb
+c:\users\hp\documents\visual studio 2010\Projects\CCUT\DAL\obj\Debug\ResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2010\Projects\CCUT\DAL\obj\Debug\DAL.dll
+c:\users\hp\documents\visual studio 2010\Projects\CCUT\DAL\obj\Debug\DAL.pdb
+C:\Users\hp\Desktop\ccut\CCUT\DAL\bin\Debug\DAL.dll
+C:\Users\hp\Desktop\ccut\CCUT\DAL\bin\Debug\DAL.pdb
+C:\Users\hp\Desktop\ccut\CCUT\DAL\bin\Debug\Model.dll
+C:\Users\hp\Desktop\ccut\CCUT\DAL\bin\Debug\Model.pdb
+C:\Users\hp\Desktop\ccut\CCUT\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hp\Desktop\ccut\CCUT\DAL\obj\Debug\DAL.dll
+C:\Users\hp\Desktop\ccut\CCUT\DAL\obj\Debug\DAL.pdb
